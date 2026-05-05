@@ -39,3 +39,4 @@ public class Problem2 {
         System.out.println(minOperations(A, K)); // Output: 6
     }
 }
+
