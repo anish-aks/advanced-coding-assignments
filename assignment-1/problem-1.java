@@ -46,3 +46,4 @@ public class CyclicSubstringMaxSum {
         System.out.println(maxCyclicSubstringSum(S));
     }
 }
+
